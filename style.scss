@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 微軟正黑體;
+    background-color: #000 !important;
+}
+
+#top {
+    margin-top: 90px;
+
+    #about content {
+
+        img.P1 {
+            vertical-align: top;
+        }
+
+        img.P2 {
+            vertical-align: middle;
+        }
+
+        img.P3 {
+            vertical-align: bottom;
+        }
+
+        a {
+            text-align: center;
+        }
+    }
+
+    .rwdtxt {
+        text-align: justify;
+        color: aliceblue;
+        margin-top: 15px;
+    }
+}
+
+#toTop {
+    position: absolute;
+    right: 10%;
+}

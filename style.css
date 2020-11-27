@@ -1,0 +1,41 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 微軟正黑體;
+  background-color: #000 !important;
+}
+
+#top {
+  margin-top: 90px;
+}
+
+#top #about content img.P1 {
+  vertical-align: top;
+}
+
+#top #about content img.P2 {
+  vertical-align: middle;
+}
+
+#top #about content img.P3 {
+  vertical-align: bottom;
+}
+
+#top #about content a {
+  text-align: center;
+}
+
+#top .rwdtxt {
+  text-align: justify;
+  color: aliceblue;
+  margin-top: 15px;
+}
+
+#toTop {
+  position: absolute;
+  right: 10%;
+}
+/*# sourceMappingURL=style.css.map */
